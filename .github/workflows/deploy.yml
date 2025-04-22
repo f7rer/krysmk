@@ -1,4 +1,4 @@
-name: Deploy Python Bot to Railway
+name: Deploy Python Bot to Railwayy
 on:
   push:
     branches: [main]
